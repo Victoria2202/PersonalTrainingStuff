@@ -7,10 +7,10 @@ config: {
 			"Good morning, handsome!",
 			"Enjoy your day!",
 			"How was your sleep?",
-      "Guten Morgen! Auf den Beginn eines neuen Tages. :)"
-      "Wer am Morgen verknittert aufsteht, hat am Tag die besten Entfaltungsmöglichkeiten!"
-      "Guten Morgen du süßer Hase!"
-      "Ein schöner Morgen steht für dich bereit. "
+      			"Guten Morgen! Auf den Beginn eines neuen Tages. :)"
+      			"Wer am Morgen verknittert aufsteht, hat am Tag die besten Entfaltungsmöglichkeiten!"
+      			"Guten Morgen du süßer Hase!"
+      			"Ein schöner Morgen steht für dich bereit. "
 		],
 		afternoon: [
 			"Hello, beauty!",
